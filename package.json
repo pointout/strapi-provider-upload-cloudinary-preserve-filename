@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "strapi-provider-upload-cloudinary@3.0.0-beta.17.8",
+      "Z:\\Userfiles\\Roman\\Projekte\\strapi\\woka"
+    ]
+  ],
+  "_from": "strapi-provider-upload-cloudinary@3.0.0-beta.17.8",
+  "_id": "strapi-provider-upload-cloudinary@3.0.0-beta.17.8",
+  "_inBundle": false,
+  "_integrity": "sha512-6iUmhFefah0ajJ61Wi3PhOVsUVmjVP5QeiWVaDrTs8oWk7fR+r5dM8WgEpjpJw65CauUXmx9TqCXM0k9j9f6ZA==",
+  "_location": "/strapi-provider-upload-cloudinary",
+  "_phantomChildren": {
+    "from2": "2.3.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "strapi-provider-upload-cloudinary@3.0.0-beta.17.8",
+    "name": "strapi-provider-upload-cloudinary",
+    "escapedName": "strapi-provider-upload-cloudinary",
+    "rawSpec": "3.0.0-beta.17.8",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.17.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-provider-upload-cloudinary/-/strapi-provider-upload-cloudinary-3.0.0-beta.17.8.tgz",
+  "_spec": "3.0.0-beta.17.8",
+  "_where": "Z:\\Userfiles\\Roman\\Projekte\\strapi\\woka",
+  "author": {
+    "name": "Luca Perret",
+    "email": "perret.luca@gmail.com",
+    "url": "https://github.com/lucaperret"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "dependencies": {
+    "cloudinary": "^1.14.0",
+    "into-stream": "^5.1.0"
+  },
+  "description": "Cloudinary provider for strapi upload",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "cf6ecbff4f38ef4ad8718670f28b8b69d4cae01b",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "cloudinary",
+    "strapi"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-provider-upload-cloudinary",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "version": "3.0.0-beta.17.8"
+}

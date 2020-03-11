@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-cloudinary-preserve-filename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cloudinary uploader for strapi with settings for folder and preserving filename as prefix to hash",
   "main": "./lib",
   "directories": {
